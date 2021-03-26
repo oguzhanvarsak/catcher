@@ -5,6 +5,7 @@
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/oguzhanvarsak/catcher) [![Build Status](https://www.travis-ci.com/oguzhanvarsak/catcher.svg)](https://www.travis-ci.com/oguzhanvarsak/catcher) ![GitHub top language](https://img.shields.io/github/languages/top/oguzhanvarsak/catcher) ![Lines of code](https://img.shields.io/tokei/lines/github/oguzhanvarsak/catcher)
 
 ### Description
+------
 Simple "catch the dots" type of game for iOS
 
 Screenshots  |
